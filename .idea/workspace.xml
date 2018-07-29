@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/RESTful-API-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/java-collection-operator-answer-stream-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/jpa-specific-practice-1-n-phase-1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/jpa-specific-practice-single-object" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/junit5-tdd-stack-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/junit5-tdd-stack-parking-4" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/parking_api-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/tmp/parking-lot-app-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/RESTful-API-Controller-Unit-Test" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/RESTful-API-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/SpringBootJPA-TEST" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Spring_flywaydb-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/jpa-specific-practice-1-n" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/jpa-specific-practice-1-n-phase-1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/multi-layer-tests-in-spring-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../TW/2018-07-09-10-17-19-1531131439" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../TW/gradleTest" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../TW/java-collection-operator-practice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../TW/smell-code-to-clean-code-word-frequency" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../WebService/employee-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../guess-number-kata" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../junit5-tdd-stack" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../smell-code-to-clean-code-word-frequency" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../RESTful-API" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../employee-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../jpa-specific-practice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../parkinglot-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../the-jpa-practice" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="303" />
+    <option name="y" value="13" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
